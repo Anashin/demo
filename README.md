@@ -11,9 +11,6 @@ Making my first todo app from scratch with a bit of challenge for my frontend sk
  
 ![Design preview for the Todo app coding challenge](./design/desktop-preview.jpg) 
 
-## View 
-
-https://miniyass.github.io/TodoList-Challenge/
 
 
 
